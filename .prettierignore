@@ -1,0 +1,13 @@
+# Module
+node_modules/
+# node.js
+yarn-error.log
+npm-debug.log
+#react
+build/
+# locks
+yarn.lock
+package-lock.json
+/webpack
+*.svg
+reportWebVitals.ts
